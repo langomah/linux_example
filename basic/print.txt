@@ -1,0 +1,30 @@
+process1:
+mmmmmmmmmmmmmmmmmmmmmmmmmmmkrishna sagar
+swethammmmmmmmmmmmmmmmmmmmmmmmmmmm
+vamshimmmmmmmmmmmmmmmmmmmmmmmm
+anushammmmmmmmmmmmmmmmmmmmmmmmm
+kiranmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+rakeshmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+end1
+
+ 
+process2:
+vamshi
+swetha
+krishna sagar
+anusha
+kiran
+rakesh
+end2
+
+
+process3:
+swetha
+krishna sagar
+vamshi
+anusha
+kiran
+rakesh
+end3
+
+

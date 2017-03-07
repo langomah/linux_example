@@ -4,6 +4,7 @@ class A{
 	const int z;
 	int x;
 	double y;
+	int b;
 public:
 	A(const int w, int a, double b):z(w) {
 		x = a;
